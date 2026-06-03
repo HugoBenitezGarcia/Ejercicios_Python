@@ -10,6 +10,6 @@ punto_espacial = (x, y, z)
 # Elevamos cada componente al cuadrado, las sumamos, y elevamos
 distancia_origen = (x**2 + y**2 + z**2) ** 0.5
 
-# 4. Mostrar los resultados
+# 4- Mostrar los resultados
 print(f"Coordenadas registradas: {punto_espacial}")
 print(f"Distancia al origen: {distancia_origen} unidades")
