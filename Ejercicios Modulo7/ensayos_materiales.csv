@@ -1,0 +1,13 @@
+Material,Carga_Aplicada,Area,Falla
+Acero,5000,25,No
+Acero,6200,25,Sí
+Acero,5800,25,No
+Aluminio,3200,20,Sí
+Aluminio,3500,20,No
+Aluminio,3000,20,Sí
+Titanio,7000,18,No
+Titanio,7600,18,No
+Titanio,7200,18,Sí
+Polimero,1500,15,Sí
+Polimero,1800,15,Sí
+Polimero,1700,15,No
